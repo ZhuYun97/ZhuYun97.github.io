@@ -1,6 +1,6 @@
 # 📄 Publications
 
-(“*” denotes equal contribution)
+> “*” denotes equal contribution
 
 ## 🕸 Self-Supervised Graph Representation Learning
 
@@ -11,4 +11,4 @@
 ## Others
 
 - ``IJCAI-23`` [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating
-  BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf) [], Boren Hu*,**Yun Zhu***, Jiacheng Li, Siliang Tang
+  BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf) \[[code](https://github.com/HuBoren99/SmartBert)\], Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang

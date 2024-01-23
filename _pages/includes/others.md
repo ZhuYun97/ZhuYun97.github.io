@@ -14,6 +14,6 @@
 
 # 🗃 Collections
 - [Awesome GNN works on NeurIPS2022](https://zhuanlan.zhihu.com/p/565185273)
-- [GNN+LLM works ubmitted to ICLR2024](https://zhuanlan.zhihu.com/p/666634719)
+- [GNN+LLM works submitted to ICLR2024](https://zhuanlan.zhihu.com/p/666634719)
 - [Highlight GNN works on ICLR2023](https://zhuanlan.zhihu.com/p/581574939)
 - [Awesome GNN works on ICML2022](https://zhuanlan.zhihu.com/p/521913622)

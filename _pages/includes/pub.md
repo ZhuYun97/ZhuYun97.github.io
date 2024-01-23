@@ -13,7 +13,7 @@
 ](https://github.com/ZhuYun97/RoSA)
 
 </div>
-</idv>
+</div>
 
 ## 🔥 Fine-tuning & Prompt-tuning GNNs
 

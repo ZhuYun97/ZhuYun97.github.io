@@ -80,7 +80,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 <!-- - ``IJCAI-23`` [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating
   BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert)  -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-23</div><img src='images/smartbert.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-23</div><img src='images/smartbert.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf) \\

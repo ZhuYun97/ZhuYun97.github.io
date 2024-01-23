@@ -62,7 +62,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/engine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/engine.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Tuning and Inference for Large Language Models on Textual Graphs]() \\
@@ -80,7 +80,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 <!-- - ``IJCAI-23`` [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating
   BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert)  -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-23</div><img src='images/smartbert.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-23</div><img src='images/smartbert.png' alt="sym" width="60%" height="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf) \\

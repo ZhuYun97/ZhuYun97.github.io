@@ -24,10 +24,19 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW-24</div><img src='images/mario.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning](https://arxiv.org/abs/2307.13055) \\
+**Yun Zhu**, Haizhou Shi, Zhenshuo Zhang, Siliang Tang†
 
-- ``WWW-24`` [MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning](https://arxiv.org/abs/2307.13055), **Yun Zhu**, Haizhou Shi, Zhenshuo Zhang, Siliang Tang, [![Static Badge](https://img.shields.io/badge/github-MARIO-brightgreen?style=plastic&logo=github)
+[![Static Badge](https://img.shields.io/badge/github-MARIO-brightgreen?style=plastic&logo=github)
 ](https://github.com/ZhuYun97/MARIO)
+
+
+</div>
+</div>
+
 
 ## 🔥 Fine-tuning & Prompt-tuning GNNs
 

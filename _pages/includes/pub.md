@@ -38,9 +38,55 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 </div>
 
 
-## 图🛠⚒🔐⚒⛏🔧🔩⚙ Fine-tuning & Prompt-tuning GNNs
+## 🔧 Fine-tuning & Prompt-tuning GNNs
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sglpt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SGL-PT: A Strong Graph Learner with Graph Prompt Tuning](https://arxiv.org/abs/2302.12449) \\
+**Yun Zhu**, Jianhao Guo, Siliang Tang†
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW-24</div><img src='images/graphcontrol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://arxiv.org/abs/2310.07365) \\
+**Yun Zhu**\*, Yaoke Wang\*, Haizhou Shi, Zhenshuo Zhang, Siliang Tang†
+
+[![Static Badge](https://img.shields.io/badge/github-GraphControl-brightgreen?style=plastic&logo=github)
+](https://github.com/ZhuYun97/GraphControl)
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/engine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Tuning and Inference for Large Language Models on Textual Graphs]() \\
+**Yun Zhu**\*, Yaoke Wang\*, Haizhou Shi, Siliang Tang†
+
+<!-- [![Static Badge](https://img.shields.io/badge/github-MARIO-brightgreen?style=plastic&logo=github)
+](https://github.com/ZhuYun97/MARIO) -->
+
+
+</div>
+</div>
 
 ## Others
 
-- ``IJCAI-23`` [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating
-  BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert) 
+<!-- - ``IJCAI-23`` [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating
+  BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert)  -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-24</div><img src='images/graphcontrol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf) \\ 
+Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†
+
+[![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert)
+
+</div>
+</div>

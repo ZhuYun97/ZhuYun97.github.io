@@ -11,4 +11,4 @@
 ## Others
 
 - ``IJCAI-23`` [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating
-  BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf) \[[code](https://github.com/HuBoren99/SmartBert)\], Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang
+  BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), ![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github&link=https%3A%2F%2Fgithub.com%2FHuBoren99%2FSmartBert) , Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang

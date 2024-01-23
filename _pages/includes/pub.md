@@ -4,11 +4,11 @@
 
 ## 🕸 Self-Supervised Graph Representation Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-22</div><img src='images/RoSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-22</div><img src='images/RoSA.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - ``IJCAI-22`` [RoSA: A Robust Self-Aligned Framework for Node-Node Graph ContrastiveLearning](https://www.ijcai.org/proceedings/2022/0527.pdf), [![Static Badge](https://img.shields.io/badge/github-RoSA-brightgreen?style=plastic&logo=github)
-](https://github.com/ZhuYun97/RoSA), **Yun Zhu**\*, Jianhao Guo\*, Fei Wu, Siliang Tang†
+](https://github.com/ZhuYun97/RoSA) , **Yun Zhu**\*, Jianhao Guo\*, Fei Wu, Siliang Tang†
 
 ## 🔥 Fine-tuning & Prompt-tuning GNNs
 

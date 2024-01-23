@@ -1,4 +1,4 @@
-# 📖 Educations
+# 🎓 Educations
 
 - *2020.09 - 2025.06*, Ph.D., Zhejiang University, Hangzhou.
 - *2016.09 - 2020.06*, Undergraduate, Software Engineering, Zhejiang Univeristy of Technology, Hangzhou.

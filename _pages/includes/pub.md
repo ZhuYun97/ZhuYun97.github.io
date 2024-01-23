@@ -38,7 +38,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 </div>
 
 
-## 🔥 Fine-tuning & Prompt-tuning GNNs
+## 图🛠⚒🔐⚒⛏🔧🔩⚙ Fine-tuning & Prompt-tuning GNNs
 
 ## Others
 

@@ -9,10 +9,10 @@
 title                    : "Yun Zhu (朱赟)"
 description              : "A Ph.D. student of Zhejiang University. Focusing on Graph Representation Learning."
 repository               : "ZhuYun97/ZhuYun97.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
-# google_analytics_id      :  '60HqQsQAAAAJ&hl=zh-CN' # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  '60HqQsQAAAAJ' # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -27,7 +27,7 @@ author:
   location         : "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=60HqQsQAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=60HqQsQAAAAJ"
   email            : "zhuyun_dcd@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

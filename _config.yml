@@ -9,7 +9,7 @@
 title                    : "Yun Zhu (朱赟)"
 description              : "A Ph.D. student of Zhejiang University. Focusing on Graph Representation Learning."
 repository               : "ZhuYun97/ZhuYun97.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  '60HqQsQAAAAJ&hl=zh-CN' # get google_analytics_id from https://analytics.google.com/analytics/

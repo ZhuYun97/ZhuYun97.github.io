@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yun Zhu (朱赟)"
-description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+description              : "A Ph.D. student of Zhejiang University. Focusing on Graph Representation Learning."
+repository               : "ZhuYun97/ZhuYun97.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

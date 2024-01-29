@@ -40,6 +40,16 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.highlighter-rouge {
+    background-color: #03228d;
+    color: white;
+    margin-bottom: 0em;
+    padding: 0em;
+    font-size: .6875em;
+    border: 0px solid #f2f3f3;
+    border-radius: 0
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

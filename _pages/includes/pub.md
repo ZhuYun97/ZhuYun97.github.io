@@ -12,6 +12,9 @@
 [![Static Badge](https://img.shields.io/badge/github-RoSA-brightgreen?style=plastic&logo=github)
 ](https://github.com/ZhuYun97/RoSA)
 
+[![Static Badge](https://img.shields.io/badge/zhihu-RoSA-green?style=plastic&labelColor=blue)](https://zhuanlan.zhihu.com/p/518707815)
+
+
 </div>
 </div>
 
@@ -57,6 +60,8 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 
 [![Static Badge](https://img.shields.io/badge/github-GraphControl-brightgreen?style=plastic&logo=github)
 ](https://github.com/ZhuYun97/GraphControl)
+
+[![Static Badge](https://img.shields.io/badge/zhihu-GraphControl-green?style=plastic&labelColor=blue)](https://zhuanlan.zhihu.com/p/680351601)
 
 
 </div>

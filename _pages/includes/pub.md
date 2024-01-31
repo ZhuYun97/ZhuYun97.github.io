@@ -75,8 +75,8 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 [Efficient Tuning and Inference for Large Language Models on Textual Graphs](https://arxiv.org/abs/2401.15569) \\
 **Yun Zhu**\*, Yaoke Wang\*, Haizhou Shi, Siliang Tang†
 
-<!-- [![Static Badge](https://img.shields.io/badge/github-MARIO-brightgreen?style=plastic&logo=github)
-](https://github.com/ZhuYun97/MARIO) -->
+[![Static Badge](https://img.shields.io/badge/github-ENGINE-brightgreen?style=plastic&logo=github)
+](https://github.com/ZhuYun97/ENGINE)
 
 
 </div>

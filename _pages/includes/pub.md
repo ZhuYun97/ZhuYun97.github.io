@@ -60,7 +60,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 **Yun Zhu**\*, Yaoke Wang\*, Haizhou Shi, Zhenshuo Zhang, Siliang Tang†
 
 [![Static Badge](https://img.shields.io/badge/github-GraphControl-brightgreen?style=plastic&logo=github)
-](https://github.com/ZhuYun97/GraphControl)
+](https://github.com/wykk00/GraphControl)
 
 [![Static Badge](https://img.shields.io/badge/GraphControl-faedcd?style=social&logo=Zhihu)
 ](https://zhuanlan.zhihu.com/p/680351601)

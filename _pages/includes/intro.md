@@ -7,4 +7,4 @@ We have proposed the first model-agnostic recipe for improving OOD generalizatio
 
 Recently, we propose an efficient tuning and inference algorithm for LLMs on textual graphs, named [ENGINE](https://arxiv.org/abs/2401.15569), which effectively and efficiently combine GNN and LLMs through a side structure.
 
-I am expected to graduate in June 2025 and seeking job opportunities. Please feel free to [contact me](zhuyun_dcd@zju.edu.cn) if you are interested!
+I am expected to graduate in June 2025 and seeking postdoctoral job opportunities. Please feel free to [contact me](zhuyun_dcd@zju.edu.cn) if you are interested!

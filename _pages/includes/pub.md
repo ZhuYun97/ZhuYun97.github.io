@@ -69,7 +69,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/engine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-24</div><img src='images/engine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Tuning and Inference for Large Language Models on Textual Graphs](https://arxiv.org/abs/2401.15569) \\

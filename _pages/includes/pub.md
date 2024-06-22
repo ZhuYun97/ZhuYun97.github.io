@@ -82,6 +82,15 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 </div>
 </div>
 
+[Bridging Local Details and Global Context in Text-Attributed Graphs](https://arxiv.org/pdf/2406.12608) \\
+Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang Tang†
+
+[![Static Badge](https://img.shields.io/badge/GraphBridge-brightgreen?style=social&logo=wechat)](https://mp.weixin.qq.com/s/oqFTiXuRO_9m_e_PWboeVA)
+
+
+</div>
+</div>
+
 ## Others
 <div class='paper-box-text' markdown="1">
 

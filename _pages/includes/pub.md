@@ -82,7 +82,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-24</div><img src='images/bridge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/bridge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bridging Local Details and Global Context in Text-Attributed Graphs](https://arxiv.org/pdf/2406.12608) \\

@@ -1,4 +1,5 @@
 # 🔥 News
+- 2024.07: 🚩 Our team ranked the 3-rd position (3/508) in the [KDD CUP 2024](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms)
 - 2024.06: 📘 Our new work named [GraphBridge](https://arxiv.org/pdf/2406.12608) is available 
 - 2024.04: 🎉 One paper is accepted by IJCAI 2024
 - 2024.01: 🎈 We release [ENGINE](https://github.com/ZhuYun97/ENGINE)

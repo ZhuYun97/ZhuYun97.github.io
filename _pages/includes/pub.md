@@ -4,6 +4,20 @@
 
 ## 🕸 Graph Generalization
 <!-- Self-Supervised Graph Representation Learning -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/todo.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Triple Attention Network: A Decoupled Perspective]() \\
+Xiaotang Wang\*,  **Yun Zhu**\*†, Yongchao Liu, Chuntao Hong
+
+[![Static Badge](https://img.shields.io/badge/github-GTA-brightgreen?style=plastic&logo=github)
+]()
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW-24</div><img src='images/mario.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -114,6 +128,8 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 
 ## Others
 <div class='paper-box-text' markdown="1">
+
+- <code class="language-plaintext highlighter-rouge">KDD-24-Workshop</code> [LLaSA: Large Language and E-Commerce Shopping Assistant](), Shuo Zhang, Xinping Zhao, Boci Peng, Boren Hu, **Yun Zhu**\*, Yanjia Zeng, Xuming Hu†, [![Static Badge](https://img.shields.io/badge/github-LLaSA-brightgreen?style=plastic&logo=github)]() 
 
 - <code class="language-plaintext highlighter-rouge">IJCAI-23</code> [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert) 
 

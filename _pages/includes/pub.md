@@ -129,7 +129,7 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 ## Others
 <div class='paper-box-text' markdown="1">
 
-- <code class="language-plaintext highlighter-rouge">KDD-24-Workshop</code> [LLaSA: Large Language and E-Commerce Shopping Assistant](), Shuo Zhang, Xinping Zhao, Boci Peng, Boren Hu, **Yun Zhu**\*, Yanjia Zeng, Xuming Hu†, [![Static Badge](https://img.shields.io/badge/github-LLaSA-brightgreen?style=plastic&logo=github)]() 
+- <code class="language-plaintext highlighter-rouge">KDD-24-Workshop</code> [LLaSA: Large Language and E-Commerce Shopping Assistant](), Shuo Zhang, Xinping Zhao, Boci Peng, Boren Hu, **Yun Zhu**, Yanjia Zeng, Xuming Hu†, [![Static Badge](https://img.shields.io/badge/github-LLaSA-brightgreen?style=plastic&logo=github)]() 
 
 - <code class="language-plaintext highlighter-rouge">IJCAI-23</code> [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert) 
 

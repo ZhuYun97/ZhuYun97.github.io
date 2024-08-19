@@ -8,11 +8,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/degta.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Triple Attention Network: A Decoupled Perspective]() \\
+[Graph Triple Attention Network: A Decoupled Perspective](https://arxiv.org/abs/2408.07654) \\
 Xiaotang Wang\*,  **Yun Zhu**\*†, Yongchao Liu, Chuntao Hong
 
 [![Static Badge](https://img.shields.io/badge/github-GTA-brightgreen?style=plastic&logo=github)
-]()
+](https://github.com/wangxiaotang0906/DeGTA)
 
 
 </div>
@@ -129,7 +129,8 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 ## Others
 <div class='paper-box-text' markdown="1">
 
-- <code class="language-plaintext highlighter-rouge">KDD-24-Workshop</code> [LLaSA: Large Language and E-Commerce Shopping Assistant](), Shuo Zhang, Boci Peng, Xinping Zhao, Boren Hu, **Yun Zhu**, Yanjia Zeng, Xuming Hu†, [![Static Badge](https://img.shields.io/badge/github-LLaSA-brightgreen?style=plastic&logo=github)]() 
+- <code class="language-plaintext highlighter-rouge">KDD-24-Workshop</code> [LLaSA: Large Language and E-Commerce Shopping Assistant](http://arxiv.org/abs/2408.02006
+), Shuo Zhang, Boci Peng, Xinping Zhao, Boren Hu, **Yun Zhu**, Yanjia Zeng, Xuming Hu†, [![Static Badge](https://img.shields.io/badge/github-LLaSA-brightgreen?style=plastic&logo=github)](https://github.com/suyan-liang/EshopInstruct) 
 
 - <code class="language-plaintext highlighter-rouge">IJCAI-23</code> [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert) 
 

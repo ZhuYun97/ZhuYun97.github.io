@@ -1,4 +1,4 @@
-# 📄 Publications
+# 🗃️ Publications
 
 > “*” denotes equal contribution, “†” denotes corresponding author
 
@@ -9,7 +9,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Graph Triple Attention Network: A Decoupled Perspective](https://arxiv.org/abs/2408.07654) \\
-Xiaotang Wang\*,  **Yun Zhu**\*†, Yongchao Liu, Chuntao Hong
+Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 
 [![Static Badge](https://img.shields.io/badge/github-GTA-brightgreen?style=plastic&logo=github)
 ](https://github.com/wangxiaotang0906/DeGTA)
@@ -66,7 +66,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 <div class='paper-box-text' markdown="1">
 
 [UniGAP: A Universal and Adaptive Graph Upsampling Approach to Mitigate Over-Smoothing in Node Classification Tasks](https://arxiv.org/pdf/2407.19420) \\
-Xiaotang Wang\*,  **Yun Zhu**\*†, Yongchao Liu, Chuntao Hong
+Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 
 [![Static Badge](https://img.shields.io/badge/github-UniGAP-brightgreen?style=plastic&logo=github)
 ](https://github.com/wangxiaotang0906/UniGAP)
@@ -125,9 +125,26 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 </div>
 </div>
 
+## 📚 Survey
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/graphrag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Retrieval-Augmented Generation: A Survey](http://arxiv.org/abs/2408.02006) \\
+Boci Peng\*, **Yun Zhu**\*, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang†, Siliang Tang
+
+[![Static Badge](https://img.shields.io/badge/github-GraphRAG_Survey-brightgreen?style=plastic&logo=github)
+]()
+
+</div>
+</div>
 
 ## Others
 <div class='paper-box-text' markdown="1">
+
+<!-- - <code class="language-plaintext highlighter-rouge">On progress</code> [Graph Retrieval-Augmented Generation: A Survey](http://arxiv.org/abs/2408.02006
+), Boci Peng\*, **Yun Zhu**\*, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang†, Siliang Tang, [![Static Badge](https://img.shields.io/badge/github-GraphRAG_Survey-brightgreen?style=plastic&logo=github)]()  -->
+
 
 - <code class="language-plaintext highlighter-rouge">KDD-24-Workshop</code> [LLaSA: Large Language and E-Commerce Shopping Assistant](http://arxiv.org/abs/2408.02006
 ), Shuo Zhang, Boci Peng, Xinping Zhao, Boren Hu, **Yun Zhu**, Yanjia Zeng, Xuming Hu†, [![Static Badge](https://img.shields.io/badge/github-LLaSA-brightgreen?style=plastic&logo=github)](https://github.com/suyan-liang/EshopInstruct) 

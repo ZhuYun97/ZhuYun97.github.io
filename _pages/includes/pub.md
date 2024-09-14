@@ -134,7 +134,7 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 Boci Peng\*, **Yun Zhu**\*, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang†, Siliang Tang
 
 [![Static Badge](https://img.shields.io/badge/github-GraphRAG_Survey-brightgreen?style=plastic&logo=github)
-]()
+](https://github.com/pengboci/GraphRAG-Survey)
 
 </div>
 </div>

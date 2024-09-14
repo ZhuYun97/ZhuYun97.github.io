@@ -1,5 +1,5 @@
 
-I am a fourth-year Ph.D. student of Zhejiang University, supervised by [Prof. Siliang Tang（汤斯亮）](https://person.zju.edu.cn/siliang/684099.html). I obtained my B.S. degree at Zhejiang University of Technology. 
+I am a final-year Ph.D. student of Zhejiang University, supervised by [Prof. Siliang Tang（汤斯亮）](https://person.zju.edu.cn/siliang/684099.html). I obtained my B.S. degree at Zhejiang University of Technology. 
 
 My research interest includes Self-Supervised Graph Representation Learning, Graph Transfer Learning, Domain Generalization, Large Language Models and Graph Foundation Models.
 

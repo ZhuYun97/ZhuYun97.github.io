@@ -1,4 +1,5 @@
 # 🔥 News
+- 2024.09: 🎉 One paper is accepted by EMNLP 2024 (Main)
 - 2024.08: 📘 The first survey of [GraphRAG](https://arxiv.org/pdf/2408.08921) is available!
 - 2024.07: 📘 First time as corresponding author for two papers: [UniGAP](https://arxiv.org/pdf/2407.19420) and [DeGTA](https://arxiv.org/abs/2408.07654)
 - 2024.07: 🚩 Our team ranked the 3-rd position (3/508) in the [KDD CUP 2024](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms)

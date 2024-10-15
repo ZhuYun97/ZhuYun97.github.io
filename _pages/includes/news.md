@@ -1,4 +1,5 @@
 # 🔥 News
+- 2024.10: 📘 Our [Graph Foundation Model](https://arxiv.org/abs/2410.10329) is available
 - 2024.09: 🎉 One paper is accepted by EMNLP 2024 (Main)
 - 2024.08: 📘 The first survey of [GraphRAG](https://arxiv.org/pdf/2408.08921) is available!
 - 2024.07: 📘 First time as corresponding author for two papers: [UniGAP](https://arxiv.org/pdf/2407.19420) and [DeGTA](https://arxiv.org/abs/2408.07654)

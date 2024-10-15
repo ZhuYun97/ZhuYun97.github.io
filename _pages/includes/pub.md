@@ -5,6 +5,19 @@
 ## 🕸 Graph Generalization
 <!-- Self-Supervised Graph Representation Learning -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/gfm.png' alt="not available" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](https://arxiv.org/pdf/2410.10329) \\
+**Yun Zhu**, Haizhou Shi, Xiaotang Wang, Yongchao Liu, Yaoke Wang, Boci Peng, Chuntao Hong, Siliang Tang
+
+[![Static Badge](https://img.shields.io/badge/github-GraphCLIP-brightgreen?style=plastic&logo=github)
+](https://github.com/ZhuYun97/GraphCLIP)
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/degta.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

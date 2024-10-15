@@ -9,7 +9,7 @@
 <div class='paper-box-text' markdown="1">
 
 [GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](https://arxiv.org/pdf/2410.10329) \\
-**Yun Zhu**, Haizhou Shi, Xiaotang Wang, Yongchao Liu, Yaoke Wang, Boci Peng, Chuntao Hong, Siliang Tang
+**Yun Zhu**, Haizhou Shi, Xiaotang Wang, Yongchao Liu, Yaoke Wang, Boci Peng, Chuntao Hong, Siliang Tang†
 
 [![Static Badge](https://img.shields.io/badge/github-GraphCLIP-brightgreen?style=plastic&logo=github)
 ](https://github.com/ZhuYun97/GraphCLIP)

@@ -93,9 +93,9 @@ Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 
 [Bridging Local Details and Global Context in Text-Attributed Graphs](https://arxiv.org/pdf/2406.12608) \\
 Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang Tang†
-
+[![Static Badge](https://img.shields.io/badge/github-GraphBridge-brightgreen?style=plastic&logo=github)
+](https://github.com/wykk00/GraphBridge)
 [![Static Badge](https://img.shields.io/badge/GraphBridge-brightgreen?style=social&logo=wechat)](https://mp.weixin.qq.com/s/oqFTiXuRO_9m_e_PWboeVA)
-
 
 </div>
 </div>
@@ -129,7 +129,7 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sglpt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv2302</div><img src='images/sglpt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SGL-PT: A Strong Graph Learner with Graph Prompt Tuning](https://arxiv.org/abs/2302.12449) \\

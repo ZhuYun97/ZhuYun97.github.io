@@ -18,4 +18,4 @@ I am a final-year Ph.D. student at Zhejiang University under the supervision of 
 
 We recently released the [first comprehensive survey on GraphRAG](https://arxiv.org/abs/2408.08921), which formalizes the GraphRAG workflow, covering Graph-Based Indexing, Graph-Guided Retrieval, and Graph-Enhanced Generation. Additionally, we introduced a novel [Graph Foundation Model](https://arxiv.org/abs/2410.10329) that demonstrates strong cross-domain and cross-task transferability.
 
-I expect to graduate in June 2025 and am actively seeking postdoctoral opportunities. If interested, please feel free to [contact me](zhuyun_dcd@zju.edu.cn).
+I expect to graduate in June 2025 and am actively looking for a job. If interested, please feel free to [contact me](zhuyun_dcd@zju.edu.cn).

@@ -18,13 +18,13 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/degta.png' alt="not available" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD-25</div><img src='images/degta.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Graph Triple Attention Network: A Decoupled Perspective](https://arxiv.org/abs/2408.07654) \\
 Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 
-[![Static Badge](https://img.shields.io/badge/github-GTA-brightgreen?style=plastic&logo=github)
+[![Static Badge](https://img.shields.io/badge/github-DeGTA-brightgreen?style=plastic&logo=github)
 ](https://github.com/wangxiaotang0906/DeGTA)
 
 
@@ -57,7 +57,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-22</div><img src='images/RoSA.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RoSA: A Robust Self-Aligned Framework for Node-Node Graph ContrastiveLearning](https://www.ijcai.org/proceedings/2022/0527.pdf) \\
+[RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning](https://www.ijcai.org/proceedings/2022/0527.pdf) \\
 **Yun Zhu**\*, Jianhao Guo\*, Fei Wu, Siliang Tang†
 
 [![Static Badge](https://img.shields.io/badge/github-RoSA-brightgreen?style=plastic&logo=github)

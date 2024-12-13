@@ -14,7 +14,7 @@ Recently, we propose a new [Graph Foundation Model]() which has strong cross-dom
 I am expected to graduate in June 2025 and seeking postdoctoral job opportunities. Please feel free to [contact me](zhuyun_dcd@zju.edu.cn) if you are interested! -->
 
 
-I am a final-year Ph.D. student at Zhejiang University under the supervision of [Prof. Siliang Tang (汤斯亮)](https://person.zju.edu.cn/siliang/684099.html), and a research intern at AntGroup, mentored by [YongChao Liu (刘永超)](https://yongchao-liu.github.io/). My research focuses on Self-Supervised Graph Representation Learning, Graph Transfer Learning, Large Language Models, and Graph Foundation Models.
+I am a final-year Ph.D. student at Zhejiang University under the supervision of [Prof. Siliang Tang (汤斯亮)](https://person.zju.edu.cn/siliang/684099.html), and a research intern at AntGroup, mentored by [Yongchao Liu (刘永超)](https://yongchao-liu.github.io/). My research focuses on Self-Supervised Graph Representation Learning, Graph Transfer Learning, Large Language Models, and Graph Foundation Models.
 
 We recently released the [first comprehensive survey on GraphRAG](https://arxiv.org/abs/2408.08921), which formalizes the GraphRAG workflow, covering Graph-Based Indexing, Graph-Guided Retrieval, and Graph-Enhanced Generation. Additionally, we introduced a novel [Graph Foundation Model](https://arxiv.org/abs/2410.10329) that demonstrates strong cross-domain and cross-task transferability.
 

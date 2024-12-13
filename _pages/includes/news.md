@@ -1,4 +1,5 @@
 # 🔥 News
+- 2024.12: 🧑🏻‍🏫 Invited talk on GraphRAG at 🕸️[LDBC](https://ldbcouncil.org/event/nineteenth-tuc-meeting/)
 - 2024.11: 🎉 One paper is accepted by KDD 2025
 - 2024.10: 📘 Our [Graph Foundation Model](https://arxiv.org/abs/2410.10329) is available
 - 2024.09: 🎉 One paper is accepted by EMNLP 2024 (Main)

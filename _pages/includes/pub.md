@@ -96,6 +96,7 @@ Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang Tang†
 [![Static Badge](https://img.shields.io/badge/github-GraphBridge-brightgreen?style=plastic&logo=github)
 ](https://github.com/wykk00/GraphBridge)
+
 [![Static Badge](https://img.shields.io/badge/GraphBridge-brightgreen?style=social&logo=wechat)](https://mp.weixin.qq.com/s/oqFTiXuRO_9m_e_PWboeVA)
 
 </div>

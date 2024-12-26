@@ -202,7 +202,7 @@ Boci Peng\*, **Yun Zhu**\*, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, 
 <div class='paper-box-text' markdown="1">
 
 [Meta-Reflection: A Feedback-Free Reflection Learning Framework](https://arxiv.org/abs/2412.13781) \\
-Yaoke Wang, **Yun Zhu**, Xintong Bao, Wenqiao Zhang, Suyang Dai, Kehan Chen, Wenqiang Li, Gang Huang, Siliang Tang, Yueting Zhuang
+Yaoke Wang, **Yun Zhu**, Xintong Bao, Wenqiao Zhang†, Suyang Dai, Kehan Chen†, Wenqiang Li, Gang Huang, Siliang Tang, Yueting Zhuang
 
 </div>
 </div>

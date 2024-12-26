@@ -2,7 +2,8 @@
 
 > “*” denotes equal contribution, “†” denotes corresponding author
 
-## 🕸 Graph Generalization
+## Graph-Related Studies
+### 🕸 Graph Generalization
 <!-- Self-Supervised Graph Representation Learning -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/graphclip.png' alt="not available" width="100%"></div></div>
@@ -72,7 +73,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 
 
 
-## 🔧 Graph Adaption
+### 🔧 Graph Adaption
 <!-- > Fine-tuning & Prompt-tuning GNNs, Graph Augmentation -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/unigap.png' alt="sym" width="100%"></div></div>
@@ -138,7 +139,42 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 </div>
 </div>
 
-## 📚 Survey
+## LLM-Related Studies
+### 🚀 Efficient Inference
+<div class='paper-box-text' markdown="1">
+
+- <code class="language-plaintext highlighter-rouge">IJCAI-23</code> [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert) 
+
+</div>
+
+### 🔧 Post-Training
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/find.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transferable and Forecastable User Targeting Foundation Model](http://arxiv.org/abs/2408.02006)\\
+Bin Dou, Baokun Wang†, **Yun Zhu**, et al.
+
+[![Static Badge](https://img.shields.io/badge/github-GraphRAG_Survey-brightgreen?style=plastic&logo=github)
+](https://github.com/pengboci/GraphRAG-Survey)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD-24-Workshop</div><img src='images/llasa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLaSA: Large Language and E-Commerce Shopping Assistant](http://arxiv.org/abs/2408.02006)\\
+Shuo Zhang, Boci Peng, Xinping Zhao, Boren Hu, **Yun Zhu**, Yanjia Zeng, Xuming Hu†
+
+[![Static Badge](https://img.shields.io/badge/github-LLaSA-brightgreen?style=plastic&logo=github)](https://github.com/suyan-liang/EshopInstruct) 
+
+</div>
+</div>
+
+
+### 💾 GraphRAG & Reflection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/graphrag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -152,19 +188,15 @@ Boci Peng\*, **Yun Zhu**\*, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, 
 </div>
 </div>
 
-## Others
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/meta-ref.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- - <code class="language-plaintext highlighter-rouge">On progress</code> [Graph Retrieval-Augmented Generation: A Survey](http://arxiv.org/abs/2408.02006
-), Boci Peng\*, **Yun Zhu**\*, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang†, Siliang Tang, [![Static Badge](https://img.shields.io/badge/github-GraphRAG_Survey-brightgreen?style=plastic&logo=github)]()  -->
-
-
-- <code class="language-plaintext highlighter-rouge">KDD-24-Workshop</code> [LLaSA: Large Language and E-Commerce Shopping Assistant](http://arxiv.org/abs/2408.02006
-), Shuo Zhang, Boci Peng, Xinping Zhao, Boren Hu, **Yun Zhu**, Yanjia Zeng, Xuming Hu†, [![Static Badge](https://img.shields.io/badge/github-LLaSA-brightgreen?style=plastic&logo=github)](https://github.com/suyan-liang/EshopInstruct) 
-
-- <code class="language-plaintext highlighter-rouge">IJCAI-23</code> [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert) 
+[Meta-Reflection: A Feedback-Free Reflection Learning Framework](https://arxiv.org/abs/2412.13781) \\
+Yaoke Wang, **Yun Zhu**, Xintong Bao, Wenqiao Zhang, Suyang Dai, Kehan Chen, Wenqiang Li, Gang Huang, Siliang Tang, Yueting Zhuang
 
 </div>
+</div>
+
 
 
 

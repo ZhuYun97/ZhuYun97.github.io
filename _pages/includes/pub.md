@@ -147,7 +147,7 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-23</div><img src='images/smartbert.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-23</div><img src='images/smartbert.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf)\\

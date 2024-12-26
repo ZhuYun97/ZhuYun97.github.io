@@ -167,8 +167,6 @@ Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†
 [Transferable and Forecastable User Targeting Foundation Model](http://arxiv.org/abs/2408.02006)\\
 Bin Dou, Baokun Wang†, **Yun Zhu**, et al.
 
-[![Static Badge](https://img.shields.io/badge/github-GraphRAG_Survey-brightgreen?style=plastic&logo=github)
-](https://github.com/pengboci/GraphRAG-Survey)
 
 </div>
 </div>

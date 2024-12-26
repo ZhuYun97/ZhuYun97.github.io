@@ -141,10 +141,21 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 
 ## LLM-Related Studies
 ### 🚀 Efficient Inference
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1">
 
 - <code class="language-plaintext highlighter-rouge">IJCAI-23</code> [SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf), Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert) 
 
+</div> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-23</div><img src='images/smartbert.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SmartBERT: A Promotion of Dynamic Early Exiting Mechanism for Accelerating BERT Inference](https://www.ijcai.org/proceedings/2023/0563.pdf)\\
+Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†
+
+[![Static Badge](https://img.shields.io/badge/github-smartbert-brightgreen?style=plastic&logo=github)](https://github.com/HuBoren99/SmartBert) 
+
+</div>
 </div>
 
 ### 🔧 Post-Training

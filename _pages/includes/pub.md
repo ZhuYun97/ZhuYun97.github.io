@@ -6,7 +6,7 @@
 ### 🕸 Graph Generalization
 <!-- Self-Supervised Graph Representation Learning -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/graphclip.png' alt="not available" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 25</div><img src='images/graphclip.png' alt="not available" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](https://arxiv.org/pdf/2410.10329) \\

@@ -161,7 +161,7 @@ Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†
 
 ### 🔧 Post-Training
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW-25</div><img src='images/find.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW-25-Industry-Track</div><img src='images/find.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Transferable and Forecastable User Targeting Foundation Model](http://arxiv.org/abs/2408.02006)\\

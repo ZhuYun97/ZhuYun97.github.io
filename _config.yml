@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yun Zhu (朱赟)"
-description              : "A Ph.D. student of Zhejiang University. Focusing on Graph Representation Learning."
+description              : "A Ph.D. student of Zhejiang University. Focusing on Graph Representation Learning, LLMs, GraphRAG."
 repository               : "ZhuYun97/ZhuYun97.github.io"
 google_scholar_stats_use_cdn : true
 

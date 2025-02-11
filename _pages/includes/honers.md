@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-
+- *2023-2024* Award of Honor for Graduate
 - *2022-2023* Honor for Graduates-Excellence in Academic (Practice) Innovation
 - *2021-2022* Award of Honor for Graduate
 - *2020-2021* Award of Honor for Graduate

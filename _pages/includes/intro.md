@@ -18,4 +18,5 @@ I am a final-year Ph.D. student at Zhejiang University under the supervision of 
 
 Specifically, we recently published the [first comprehensive survey on GraphRAG](https://arxiv.org/abs/2408.08921), which formalizes the GraphRAG workflow. Moreover, we introduced a novel [Graph Foundation Model](https://arxiv.org/abs/2410.10329), leveraging LLMs to achieve remarkable cross-domain and cross-task transferability.
 
-I expect to graduate in June 2025 and am actively looking for a job. If interested, please feel free to [contact me](zhuyun_dcd@zju.edu.cn).
+I expect to graduate in June 2025 and will work in [Shanghai AI Lab](https://www.shlab.org.cn/). 
+<!-- If interested, please feel free to [contact me](zhuyun_dcd@zju.edu.cn). -->

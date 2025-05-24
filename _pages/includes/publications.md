@@ -198,7 +198,7 @@ Boci Peng\*, **Yun Zhu**\*, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/meta-ref.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-25 (Main)</div><img src='images/meta-ref.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta-Reflection: A Feedback-Free Reflection Learning Framework](https://arxiv.org/abs/2412.13781) \\

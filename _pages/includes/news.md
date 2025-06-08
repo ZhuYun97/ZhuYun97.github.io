@@ -1,5 +1,5 @@
 # 🔥 News
-- 2025.05: 🎉 Two papers are accepted by ACL 2024 (Main)
+- 2025.05: 🎉 Two papers are accepted by ACL 2025 (Main)
 - 2025.02: 🚩 Our team ranked the 5-th position (5/76) in the [AgentSociety Challenge](https://tsinghua-fib-lab.github.io/AgentSocietyChallenge/pages/recommendation-track.html) [Topic: Agent for Recommendation]
 - 2025.01: 🎉 Two papers are accepted by WWW 2025
 - 2024.12: 🧑🏻‍🏫 Invited talk on GraphRAG at 🕸️[LDBC](https://ldbcouncil.org/event/nineteenth-tuc-meeting/)

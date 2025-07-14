@@ -14,9 +14,9 @@ Recently, we propose a new [Graph Foundation Model]() which has strong cross-dom
 I am expected to graduate in June 2025 and seeking postdoctoral job opportunities. Please feel free to [contact me](zhuyun_dcd@zju.edu.cn) if you are interested! -->
 
 
-I am a final-year Ph.D. student at Zhejiang University under the supervision of [Prof. Siliang Tang (汤斯亮)](https://person.zju.edu.cn/siliang/684099.html), and a research intern at AntGroup, mentored by [Yongchao Liu (刘永超)](https://yongchao-liu.github.io/). My research centers on two primary areas: (1) Graph-related studies, including Self-Supervised Graph Representation Learning and Graph Foundation Models, and (2) LLM-related studies, encompassing Efference Inference, Post-Training, and GraphRAG. Additionally, I explore integrating the strengths of these fields to advance model reasoning, with a particular emphasis on GraphRAG and text-attributed graph foundation models.
+I got the Ph.D. degree from Zhejiang University, advised by [Prof. Siliang Tang (汤斯亮)](https://person.zju.edu.cn/siliang/684099.html). My research centers on two primary areas: (1) Graph-related studies, including Self-Supervised Graph Representation Learning and Graph Foundation Models, and (2) LLM-related studies, encompassing Efference Inference, Post-Training, and GraphRAG. Additionally, I explore integrating the strengths of these fields to advance model reasoning, with a particular emphasis on GraphRAG and text-attributed graph foundation models.
 
 Specifically, we recently published the [first comprehensive survey on GraphRAG](https://arxiv.org/abs/2408.08921), which formalizes the GraphRAG workflow. Moreover, we introduced a novel [Graph Foundation Model](https://arxiv.org/abs/2410.10329), leveraging LLMs to achieve remarkable cross-domain and cross-task transferability.
 
-I expect to graduate in June 2025 and will join [Shanghai AI Lab](https://www.shlab.org.cn/) as a Junior Researcher. 
+Soon, I will join the [Shanghai AI Lab](https://www.shlab.org.cn/) as a Junior Researcher, under the mentorship of [Dr. Lijun Wu](https://scholar.google.com/citations?hl=en&user=RD5kSG0AAAAJ). 
 <!-- If interested, please feel free to [contact me](zhuyun_dcd@zju.edu.cn). -->

@@ -18,5 +18,8 @@ I got the Ph.D. degree from Zhejiang University, advised by [Prof. Siliang Tang 
 
 Specifically, we recently published the [first comprehensive survey on GraphRAG](https://arxiv.org/abs/2408.08921), which formalizes the GraphRAG workflow. Moreover, we introduced a novel [Graph Foundation Model](https://arxiv.org/abs/2410.10329), leveraging LLMs to achieve remarkable cross-domain and cross-task transferability.
 
-Soon, I will join the [Shanghai AI Lab](https://www.shlab.org.cn/) as a Junior Researcher, under the mentorship of [Dr. Lijun Wu](https://scholar.google.com/citations?hl=en&user=RD5kSG0AAAAJ). 
+I have recently joined the [Shanghai AI Lab](https://www.shlab.org.cn/) as a Junior Researcher, working under the guidance of [Dr. Lijun Wu](https://scholar.google.com/citations?hl=en&user=RD5kSG0AAAAJ) and [Dr. Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ). My research focuses on assessing the value of multimodal data and the generation of high-value datasets. Please feel free to [contact me](zhuyun@pj.org.cn) if you are interested in internships or collaborations in these areas.
+
+
+
 <!-- If interested, please feel free to [contact me](zhuyun_dcd@zju.edu.cn). -->

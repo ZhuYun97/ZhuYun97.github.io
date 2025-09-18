@@ -42,7 +42,7 @@ Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 ](https://github.com/ZhuYun97/MARIO)
 
 
-</div>
+<!-- </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI-23</div><img src='images/sagd.png' alt="sym" width="100%"></div></div>
@@ -52,10 +52,10 @@ Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 
 </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-22</div><img src='images/RoSA.PNG' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-22</div><img src='images/RoSA.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning](https://www.ijcai.org/proceedings/2022/0527.pdf) \\
@@ -69,6 +69,19 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 
 
 </div>
+</div> -->
+
+<div class='paper-box-text' markdown="1">
+
+- <code class="language-plaintext highlighter-rouge">ECAI-23</code> [Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework](https://ebooks.iospress.nl/doi/10.3233/FAIA230624), Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+- <code class="language-plaintext highlighter-rouge">IJCAI-22</code> [RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning](https://www.ijcai.org/proceedings/2022/0527.pdf), **Yun Zhu**\*, Jianhao Guo\*, Fei Wu, Siliang Tang†, [![Static Badge](https://img.shields.io/badge/github-RoSA-brightgreen?style=plastic&logo=github)
+](https://github.com/ZhuYun97/RoSA)
+
 </div>
 
 
@@ -76,7 +89,7 @@ Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 ### 🔧 Graph Adaption
 <!-- > Fine-tuning & Prompt-tuning GNNs, Graph Augmentation -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/unigap.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/unigap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniGAP: A Universal and Adaptive Graph Upsampling Approach to Mitigate Over-Smoothing in Node Classification Tasks](https://arxiv.org/pdf/2407.19420) \\
@@ -87,7 +100,7 @@ Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP-24 (Main)</div><img src='images/bridge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -131,13 +144,26 @@ Yaoke Wang\*, **Yun Zhu**\*, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv2302</div><img src='images/sglpt.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv2302</div><img src='images/sglpt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SGL-PT: A Strong Graph Learner with Graph Prompt Tuning](https://arxiv.org/abs/2302.12449) \\
 **Yun Zhu**, Jianhao Guo, Siliang Tang†
 
 </div>
+</div> -->
+
+<div class='paper-box-text' markdown="1">
+
+- <code class="language-plaintext highlighter-rouge">ArXiv2302</code> [SGL-PT: A Strong Graph Learner with Graph Prompt Tuning](https://arxiv.org/abs/2302.12449), **Yun Zhu**, Jianhao Guo, Siliang Tang†
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+- <code class="language-plaintext highlighter-rouge">Under Review</code> [UniGAP: A Universal and Adaptive Graph Upsampling Approach to Mitigate Over-Smoothing in Node Classification Tasks](https://arxiv.org/pdf/2407.19420), Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong, [![Static Badge](https://img.shields.io/badge/github-UniGAP-brightgreen?style=plastic&logo=github)
+](https://github.com/wangxiaotang0906/UniGAP)
+
 </div>
 
 ## LLM-Related Studies

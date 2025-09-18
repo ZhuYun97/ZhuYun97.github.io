@@ -42,17 +42,17 @@ Xiaotang Wang\*,  **Yun Zhu**\*†, Haizhou Shi, Yongchao Liu, Chuntao Hong
 ](https://github.com/ZhuYun97/MARIO)
 
 
-<!-- </div>
-</div>
+<!-- <!-- </div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI-23</div><img src='images/sagd.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI-23</div><img src='images/sagd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework](https://ebooks.iospress.nl/doi/10.3233/FAIA230624) \\
 Zhenshuo Zhang, **Yun Zhu**, Haizhou Shi, Siliang Tang†
 
 </div>
-</div> -->
+</div>  -->
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-22</div><img src='images/RoSA.PNG' alt="sym" width="100%"></div></div>

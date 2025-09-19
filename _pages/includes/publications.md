@@ -190,7 +190,7 @@ Boren Hu\*,**Yun Zhu**\*, Jiacheng Li, Siliang Tang†
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW-25-Industry-Track</div><img src='images/find.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Transferable and Forecastable User Targeting Foundation Model](http://arxiv.org/abs/2408.02006)\\
+[Transferable and Forecastable User Targeting Foundation Model](https://dl.acm.org/doi/abs/10.1145/3701716.3715266)\\
 Bin Dou, Baokun Wang†, **Yun Zhu**, et al.
 
 
@@ -215,7 +215,7 @@ Shuo Zhang, Boci Peng, Xinping Zhao, Boren Hu, **Yun Zhu**, Yanjia Zeng, Xuming 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/graphrag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Retrieval-Augmented Generation: A Survey](http://arxiv.org/abs/2408.02006) \\
+[Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921) \\
 Boci Peng\*, **Yun Zhu**\*, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang†, Siliang Tang
 
 [![Static Badge](https://img.shields.io/badge/github-GraphRAG_Survey-brightgreen?style=plastic&logo=github)

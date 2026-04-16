@@ -14,11 +14,11 @@ Recently, we propose a new [Graph Foundation Model]() which has strong cross-dom
 I am expected to graduate in June 2025 and seeking postdoctoral job opportunities. Please feel free to [contact me](zhuyun_dcd@zju.edu.cn) if you are interested! -->
 
 
-I got the Ph.D. degree from Zhejiang University, advised by [Prof. Siliang Tang (汤斯亮)](https://person.zju.edu.cn/siliang/684099.html). My research centers on two primary areas: (1) Graph-related studies, including Self-Supervised Graph Representation Learning and Graph Foundation Models, and (2) LLM-related studies, encompassing Efference Inference, Post-Training, and GraphRAG. Additionally, I explore integrating the strengths of these fields to advance model reasoning, with a particular emphasis on GraphRAG and text-attributed graph foundation models.
+I got the Ph.D. degree from Zhejiang University, advised by [Prof. Siliang Tang (汤斯亮)](https://person.zju.edu.cn/siliang/684099.html). I am currently a Junior Researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), working with [Dr. Lijun Wu](https://scholar.google.com/citations?hl=en&user=RD5kSG0AAAAJ) and [Dr. Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ). My current research focuses on post-training for vision-language models (VLMs), multimodal data valuation, and agentic reinforcement learning.
 
-Specifically, we recently published the [first comprehensive survey on GraphRAG](https://arxiv.org/abs/2408.08921), which formalizes the GraphRAG workflow. Moreover, we introduced a novel [Graph Foundation Model](https://arxiv.org/abs/2410.10329), leveraging LLMs to achieve remarkable cross-domain and cross-task transferability.
+More specifically, I study how to assess the value of multimodal data, identify and construct high-value datasets for VLM post-training, and improve model capabilities through agentic RL. I am particularly interested in building scalable data-centric pipelines that better align multimodal foundation models with real-world reasoning and decision-making tasks. More details can be found on our project pages, [Open Data Arena](https://opendataarena.github.io/) and [SciVerse](https://sciverse.opendatalab.com/).
 
-I have recently joined the [Shanghai AI Lab](https://www.shlab.org.cn/) as a Junior Researcher, working under the guidance of [Dr. Lijun Wu](https://scholar.google.com/citations?hl=en&user=RD5kSG0AAAAJ) and [Dr. Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ). My research focuses on assessing the value of multimodal data and the generation of high-value datasets. Please feel free to [contact me](zhuyun@pj.org.cn) if you are interested in internships or collaborations in these areas.
+Please feel free to [contact me](zhuyun@pj.org.cn) if you are interested in internships or collaborations in these areas.
 
 
 

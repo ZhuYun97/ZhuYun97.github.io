@@ -1,4 +1,6 @@
 # 🔥 News
+- 2026.04: 🎉 Four papers are accepted by ACL 2026 (Main)
+- 2026.01: 🎉 One paper is accepted by CVPR 2026
 - 2025.09: 🎉 One paper is accepted by NeurIPS 2025
 - 2025.09: 🎉 Our [GraphRAG](https://arxiv.org/pdf/2408.08921) survey is accepted by TOIS
 - 2025.05: 🎉 Two papers are accepted by ACL 2025 (Main)

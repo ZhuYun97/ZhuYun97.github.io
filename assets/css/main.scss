@@ -117,3 +117,22 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.news-scroll {
+    max-height: 18rem;
+    overflow-y: auto;
+    margin-bottom: 1.5rem;
+    padding-right: 0.75rem;
+    scrollbar-gutter: stable;
+    -webkit-overflow-scrolling: touch;
+
+    > ul {
+        margin-bottom: 0;
+    }
+}
+
+@include breakpoint(max-width $small) {
+    .news-scroll {
+        max-height: 14rem;
+    }
+}
